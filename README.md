@@ -29,23 +29,23 @@ After the basic cleaning of data we did the following tasks :
 
 # Overall Analysis -
 1. Data set are loaded
-1(a). It has column of order id, quantity,order date address,price,product
-2(a) Nan value present in data set are dropped
-2(b) Duplicate Values are deleted
-2(c)  column name are changed for better analysis
-2(d) Pincode , city name are extracted and given seperate column
-2(e) seperate sales column are made for further analysis
-3 In new data set we do not have any nan value,duplicate values, we have seperate column of sales, pincode, city
-3(a) Data typed are changed of Order_ID for analysis
-4 San fransisco is the city where most sells are happening
-4(a) New york city selling more products
-5 Most sales occuring at 7 evening may be because people like to shop in the evening
-5(a) after 7pm its b/w 11am to 12 noon where most sales are happening
-5(b) sales are least in 4 am morning which and decrease after 7 pm so stores offers some discount in night to
-Iphone and charging cables are most sold product together
-6(a) this is because iphone is not giving charging cabels along with mobile
-6(b) lg items have least sales so company should offer discount
-6(c) Accesories like headphones, Charging cable , aa and aaa batteries are most sold items may be because of its less
-6(d) There should be promotional offer like lg washing machine should offer lg dryer to increse its sales
-6(e) veerband phone should offer discount or free headphone and charging cabels
+1(a). It has column of order id, quantity,order date address,price,product.
+2(a) Nan value present in data set are dropped.
+2(b) Duplicate Values are deleted.
+2(c)  column name are changed for better analysis.
+2(d) Pincode , city name are extracted and given seperate column.
+2(e) seperate sales column are made for further analysis.
+3 In new data set we do not have any nan value,duplicate values, we have seperate column of sales, pincode, city.
+3(a) Data typed are changed of Order_ID for analysis.
+4 San fransisco is the city where most sells are happening.
+4(a) New york city selling more products.
+5 Most sales occuring at 7 evening may be because people like to shop in the evening.
+5(a) after 7pm its b/w 11am to 12 noon where most sales are happening.
+5(b) sales are least in 4 am morning which and decrease after 7 pm so stores offers some discount in night.
+Iphone and charging cables are most sold product together.
+6(a) this is because iphone is not giving charging cabels along with mobile.
+6(b) lg items have least sales so company should offer discount.
+6(c) Accesories like headphones, Charging cable , aa and aaa batteries are most sold items.
+6(d) There should be promotional offer like lg washing machine should offer lg dryer to increse its sales.
+6(e) veerband phone should offer discount or free headphone and charging cabels.
  
